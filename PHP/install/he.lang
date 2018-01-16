@@ -1,0 +1,121 @@
+rtl=1
+quit=יציאה
+close=סגור
+back=חזור
+
+main=צבע אדום - לדעת לפני כולם
+main.minimize=מזער
+main.setting=הגדרות
+main.about=אודות
+main.contact=שלח למייל האדום
+main.grp1=התראות עבור
+main.grp2=מבזקי צבע אדום
+main.grp3=תחנות רדיו
+main.markall=סמן הכל
+main.markrem=הסר סימון
+main.not1=אזעקות
+main.not2=אירועי חירום
+main.not3=אירועים בטחוניים חריגים
+main.not4=אחר
+main.footer=צבע אדום - לדעת לפני כולם
+main.by=בחסות
+main.more=אפשרויות נוספות
+
+notify=צבע אדום
+notify.hide=הסתר
+notify.show=הצג
+
+error=צבע אדום - בעיית תוכנה
+error.title=חלה תקלה בתוכנה והיא לא יכולה להמשיך לתפקד:
+
+lang=צבע אדום - בחירת שפה
+
+lastnots=צבע אדום - אזעקות אחרונות
+lastnots.n=מס'
+lastnots.i=מידע
+lastnots.d=תאריך ושעה
+lastnots.max=כמות לתצוגה (מקסימום 0):
+lastnots.tip=(ניתן לצפות באזעקות מהשעות האחרונות בלבד)
+
+loading=צבע אדום - טוען
+loading.text=אנא המתן...
+
+not=צבע אדום - לדעת לפני כולם
+not.not1=אזעקה
+not.not2=אירוע חירום
+not.not3=אירוע בטחוני חריג
+not.not4=עדכון כללי
+not.setting=הגדרת התראות
+not.readmore=קרא עוד...
+not.title=צבע אדום - לדעת לפני כולם
+not.facebook=עדכונים נוספים...
+
+setting=צבע אדום - הגדרות
+setting.sound=השמעת צליל בהתראה
+setting.startup=הפעל את התוכנה בהפעלת המחשב
+setting.choosealarm=צליל התראת אזעקה:
+setting.choosesound=צליל התראות אחרות:
+setting.listdef=בחר צליל...
+setting.nosound=ללא צליל
+setting.addsound=הוספת צליל...
+setting.addfailed=קובץ בשם הזה כבר קיים
+setting.addsuccess=קובץ הצליל נוסף בהצלחה
+setting.auto=שלח התראות רק בשעות:{newline}(לפי שעון המחשב)
+setting.anytime=כל שעה
+setting.to=עד
+setting.autohide=הסתרה אוטומטית של התראה:
+setting.seconds=שניות
+setting.donthide=ללא
+setting.exp=(ההגדרות נשמרות באופן אוטומטי)
+setting.side=צד התראה:
+setting.right=ימין
+setting.left=שמאל
+
+update=צבע אדום - גרסה חדשה
+update.attention=שים לב:
+update.text=תוכנת צבע אדום שאתה מחזיק במחשבך אינה עדכנית.{newline}על מנת להשתמש בתוכנה, עליך להוריד את התוכנה החדשה ביותר.
+update.your=הגרסה שיש לך:
+update.our=הגרסה המעודכנת ביותר:
+update.dl=הורדת הגרסה החדשה: X
+update.progress=מוריד קבצים (X/Y)...
+update.complete=העדכון הושלם!
+update.start=הפעל
+
+mail=צבע אדום - שלח למייל האדום
+mail.to=נשלח אל:
+mail.from=שם השולח:
+mail.frommail=דוא"ל לחזרה:
+mail.subject=נושא ההודעה:
+mail.phone=טלפון:
+mail.body=גוף ההודעה:
+mail.count=(תוים: X/Y)
+mail.send=שלח
+mail.subj1=דיווח
+mail.subj2=שאלה
+mail.other=אחר
+mail.default=בחר נושא...
+mail.failed1=עליך לרשום כתובת דוא"ל תקינה.
+mail.failed2=עליך לבחור נושא.
+mail.failed3=ההודעה מכילה מעט מדי תוים.
+mail.failed4=עליך להקליד שם שולח.
+mail.failed5=שליחת המייל נכשלה
+mail.success=ההודעה נשלחה בהצלחה!
+
+about=צבע אדום - אודות
+about.site=אתר צבע אדום
+about.facebook=צבע אדום בפייסבוק
+about.twitter=צבע אדום בטוויטר
+about.youtube=צבע אדום ביוטיוב
+
+version=צבע אדום - תוכנת התראה, גרסה X
+version.changelog=היסטוריית שינויים, גרסה X:
+version.current=גרסת התוכנה:
+version.select=בחר גרסה
+version.select2=בחר
+
+changelog=צבע אדום - חדש בגרסה X
+changelog.list=רשימת השינויים בגרסה X:
+changelog.close=רשימת השינויים תופיע בכל פעם שהתוכנה תתעדכן.{newline}ניתן לצפות בה גם על ידי לחיצה על כפתור אודות ואז על כפתור הגרסה.
+
+more=צבע אדום - אפשרויות נוספות
+more.lastnots=אזעקות אחרונות

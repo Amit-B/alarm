@@ -1,0 +1,121 @@
+rtl=0
+quit=Quit
+close=Close
+back=Back
+
+main=MivzakLive
+main.minimize=Minimize
+main.setting=Settings
+main.about=About
+main.contact=Contact
+main.grp1=Alert for
+main.grp2=News
+main.grp3=Radio Stations
+main.markall=Check All
+main.markrem=Uncheck All
+main.not1=Alarms
+main.not2=Emergency Events
+main.not3=Security Events
+main.not4=Other
+main.footer=MivzakLive - be the first to know
+main.by=Sponsored by
+main.more=More...
+
+notify=Mivzak
+notify.hide=Hide
+notify.show=Show
+
+error=MivzakLive - Error
+error.title=An error has occured:
+
+lang=MivzakLive - Select Language
+
+lastnots=MivzakLive - Recent Alerts
+lastnots.n=Num
+lastnots.i=Information
+lastnots.d=Time & Date
+lastnots.max=View (Max 0):
+lastnots.tip=(The alerts above are from the latest hours only)
+
+loading=MivzakLive - Loading
+loading.text=Please wait...
+
+not=MivzakLive
+not.not1=Alert
+not.not2=Emergency Event
+not.not3=Security Event
+not.not4=General Update
+not.setting=Settings
+not.readmore=Read more...
+not.title=MivzakLive
+not.facebook=More Updates...
+
+setting=MivzakLive - Settings
+setting.sound=Notification sounds
+setting.startup=Open on startup
+setting.choosealarm=Alarm sound:
+setting.choosesound=Any alert sound:
+setting.listdef=Select sound...
+setting.nosound=No sound
+setting.addsound=Add sound...
+setting.addfailed=This name of file is already exists.
+setting.addsuccess=Sound file has been added successfully
+setting.auto=Alert between:{newline}(local time)
+setting.anytime=Anytime
+setting.to=to
+setting.autohide=Hide alarms after:
+setting.seconds=seconds
+setting.donthide=None
+setting.exp=(The settings will be saved automatically)
+setting.side=Side:
+setting.right=Right
+setting.left=Left
+
+update=MivzakLive - Version Update
+update.attention=Attention:
+update.text=Your current application version is not up to date.{newline}You will have to get the latest version to use this.
+update.your=Current version:
+update.our=Latest version:
+update.dl=Get the latest version: X
+update.progress=Downloading files (X/Y)...
+update.complete=Update complete!
+update.start=Start
+
+mail=MivzakLive - Contact
+mail.to=To:
+mail.from=Sender Name:
+mail.frommail=Sender Mail:
+mail.subject=Subject:
+mail.phone=Phone:
+mail.body=Message:
+mail.count=(Characters: X/Y)
+mail.send=Send
+mail.subj1=Report
+mail.subj2=Question
+mail.other=Other
+mail.default=Select subject...
+mail.failed1=You have to write a valid mail address.
+mail.failed2=You have to select a subject.
+mail.failed3=Your message is too small.
+mail.failed4=Please insert sender name.
+mail.failed5=Failed to send mail.
+mail.success=Message sent!
+
+about=MivzakLive - About
+about.site=MivzakLive Site
+about.facebook=MivzakLive for Facebook
+about.twitter=MivzakLive for Twitter
+about.youtube=MivzakLive for YouTube
+
+version=MivzakLive - Alert application, version X
+version.changelog=Change log of version X
+version.current=Current version:
+version.select=Select version
+version.select2=Select
+
+changelog=MivzakLive - New in VX
+changelog.list=Changelog of X:
+changelog.close=This changelog will be displayed everytime that the program get updated.{newline}You can also view it by pressing the about button.
+
+more=MivzakLive - More Options
+more.lastnots=Latest Alarms

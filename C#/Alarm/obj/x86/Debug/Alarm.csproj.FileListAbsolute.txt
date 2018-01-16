@@ -1,0 +1,92 @@
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\bin\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\bin\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\Alarm.Form1.resources
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\Alarm.Properties.Resources.resources
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Local Settings\Application Data\Temporary Projects\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\Alarm\obj\x86\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\bin\Debug\Alarm.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\bin\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\bin\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Language.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.LastNots.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Loading.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Not.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Setting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.About.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Changelog.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.FullNot.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Mail.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.SelectVersion.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.UpdateComplete.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.UpdateVersion.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.VersionInfo.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\Alarm\C#\Alarm\obj\x86\Debug\Alarm.More.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\bin\Debug\Alarm.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\bin\Debug\Alarm.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\bin\Debug\Alarm.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.About.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Changelog.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.FullNot.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Language.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.LastNots.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Loading.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Mail.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.More.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Not.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.SelectVersion.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Setting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.UpdateComplete.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.UpdateVersion.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.VersionInfo.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\bin\Debug\Alarm.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\bin\Debug\Alarm.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.About.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Changelog.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Error.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.FullNot.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Images.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Language.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.LastNots.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Loading.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Mail.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Main.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.More.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Not.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Properties.Resources.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.SelectVersion.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.Setting.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.UpdateComplete.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.UpdateVersion.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\Alarm.VersionInfo.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\Alarm\C#\Alarm\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
